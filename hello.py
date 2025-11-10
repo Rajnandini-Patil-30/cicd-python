@@ -6,4 +6,6 @@ def main():
     print("Hello, world!")
 
 
-print("Done")
+if __name__ == "__main__":
+    main()
+    print("Done")
