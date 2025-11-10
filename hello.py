@@ -1,7 +1,8 @@
-"""A simple Python script that prints Hello, world!"""
+"""A simple script."""
+
 
 def main():
     print("Hello, world!")
 
-if __name__ == "__main__":
-    main()
+
+print("Done")
